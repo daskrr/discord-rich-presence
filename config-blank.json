@@ -1,0 +1,27 @@
+{
+    "ClientID": "",
+    "Details": "",
+    "State": "",
+    "StartTimestamp": 0,
+    "RandomTimestamp": false,
+    "MinTimeStamp": 0,
+    "MaxTimestamp": 1,
+    "LargeImage": {
+        "Key": "",
+        "Text": ""
+    },
+    "SmallImage": {
+        "Key": "",
+        "Text": ""
+    },
+    "Buttons": [
+        {
+            "Text": "",
+            "Url": ""
+        },
+        {
+            "Text": "",
+            "Url": ""
+        }
+    ]
+}
